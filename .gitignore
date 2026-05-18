@@ -1,0 +1,20 @@
+# PHP
+*.php.swp
+vendor/
+composer.phar
+composer.lock
+
+# IDEs and Editors
+.idea/
+.vscode/
+.project
+.settings/
+.buildpath
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and Cache
+*.log
+*.cache
